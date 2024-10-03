@@ -2,7 +2,7 @@
 This is a binary search tree made in java that does <br>
 Pre-order, In-order, and Post-order traversal. Also displays it afterwards
 
-<h1>Samnple input</h1>
+<h1>Sample input</h1>
 
 ```
 dbca
